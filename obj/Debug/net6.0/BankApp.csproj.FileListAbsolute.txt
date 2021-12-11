@@ -1,0 +1,15 @@
+C:\Users\Gunna\OneDrive\Desktop\Bank\BankApp\obj\Debug\net6.0\BankApp.csproj.AssemblyReference.cache
+C:\Users\Gunna\OneDrive\Desktop\Bank\BankApp\obj\Debug\net6.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gunna\OneDrive\Desktop\Bank\BankApp\obj\Debug\net6.0\BankApp.AssemblyInfoInputs.cache
+C:\Users\Gunna\OneDrive\Desktop\Bank\BankApp\obj\Debug\net6.0\BankApp.AssemblyInfo.cs
+C:\Users\Gunna\OneDrive\Desktop\Bank\BankApp\obj\Debug\net6.0\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\Gunna\OneDrive\Desktop\Bank\BankApp\bin\Debug\net6.0\BankApp.exe
+C:\Users\Gunna\OneDrive\Desktop\Bank\BankApp\bin\Debug\net6.0\BankApp.deps.json
+C:\Users\Gunna\OneDrive\Desktop\Bank\BankApp\bin\Debug\net6.0\BankApp.runtimeconfig.json
+C:\Users\Gunna\OneDrive\Desktop\Bank\BankApp\bin\Debug\net6.0\BankApp.dll
+C:\Users\Gunna\OneDrive\Desktop\Bank\BankApp\bin\Debug\net6.0\ref\BankApp.dll
+C:\Users\Gunna\OneDrive\Desktop\Bank\BankApp\bin\Debug\net6.0\BankApp.pdb
+C:\Users\Gunna\OneDrive\Desktop\Bank\BankApp\obj\Debug\net6.0\BankApp.dll
+C:\Users\Gunna\OneDrive\Desktop\Bank\BankApp\obj\Debug\net6.0\ref\BankApp.dll
+C:\Users\Gunna\OneDrive\Desktop\Bank\BankApp\obj\Debug\net6.0\BankApp.pdb
+C:\Users\Gunna\OneDrive\Desktop\Bank\BankApp\obj\Debug\net6.0\BankApp.genruntimeconfig.cache
